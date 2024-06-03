@@ -14,9 +14,4 @@ This system is built using modern web technologies and is open-source, making it
 
 
 
-admin login
-
-username- admin
-
-password - password
 
